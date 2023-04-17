@@ -1,0 +1,34 @@
+//  permissão para autorizar os aquivos.sh serem executado
+chmod +x criar-pasta.sh
+
+// comentario no bash
+#!bin/bash
+
+// caminhar ate o arquivo e executar
+./criar-pasta.sh
+
+// como verificar se ja existe um diretorio em shell script
+
+
+// variaveis de ambiente se coloca em letra maiuscula é costume
+
+// colocar conteudo antes de criar o arquivo
+echo "ola alunos" > teste.txt
+
+//acrescentar mais itens no arquivo
+echo "adicionando mais conteudo no arquivo" >> teste.txt
+
+// apagar arquivos e pastas
+rm -rf
+
+// apagar pasta
+rm -f
+
+// adicioanar arquivo
+touch teste.txt
+
+// permissao de execução
+chmod +x <nome do arquivo>
+
+//
+ls -la

@@ -1,0 +1,6 @@
+Crie um programa no shell script que solicite o nome de um diretorio o nome de um arquivo
+de execução 
+faça a criação do diretorio digitado e dentro do diretorio crieo arquivo de execução digitado
+dentro do arquivode execução, faça uma chamada para uma aplicação java que voce ja tenha criado
+ou seja, chame qualquer app console que vc gerou o arquivo .jar, se vc nao tiver o .jar da aplicaçã,
+o comando criado vai gerar o build do maven e depois chamar o .jar
